@@ -1,8 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Andrei
-==============================================================================================================================
+<h1> Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Andrei. </h1>
 
-My interest lies in the IT field
---------------------------------
+My interest lies in the IT field.
 
 As a passionate individual with a strong interest in IT, I am eager to pursue a career in the field. I am dedicated to enhancing my skills and knowledge in IT through continuous learning and professional development.
 
