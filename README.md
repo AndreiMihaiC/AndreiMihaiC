@@ -5,9 +5,10 @@ My interest lies in the IT field.
 
 As a passionate individual with a strong interest in IT, I am eager to pursue a career in the field. I am dedicated to enhancing my skills and knowledge in IT through continuous learning and professional development.
 
-* 🌍  I'm based in Bucuresti
-* ✉️  You can contact me at [andrei\_cutic93@yahoo.com](mailto:andrei_cutic93@yahoo.com)
-* 🧠  I'm learning Python
+* 🌍  I'm based in Bucuresti
+* ✉️  You can contact me at [candreim93@gmail.com](mailto:candreim93@gmail.com)
+* 🧠  I'm learning Manual & Automation Testing
+* ⚡  I am seeking opportunities to collaborate in the IT field.
 
 ### Skills
 
